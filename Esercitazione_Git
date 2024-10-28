@@ -1,0 +1,6 @@
+include<stdio.h>
+
+int main(){
+    print("Hello world\n");
+    print("Let's go ski\n");
+}
